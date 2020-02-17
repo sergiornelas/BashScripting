@@ -53,19 +53,11 @@ function team {
         TOTAL_TEAM=$(($TOTAL_TEAM + $THIS_TEAM))
 }
 
-team Alejandro Zuno mexico
-team Alexis Guevara mexico
-team Ariel Fernando mexico
-team Cristina Yanani mexico
-team Evani Morales mexico
-team Gerardo Castellanos mexico
-team Ivette Nava mexico
-team Jonathan Oviedo mexico
-team Elizabeth Mayo mexico
-team Pedro Granciano mexico
-team Silvia Salazar mexico
-team Victor Rendon mexico
-team Viviana Torre mexico
+team Nombre Apellido mexico
+team Nombre Apellido mexico
+team Nombre Apellido mexico
+team Nombre Apellido mexico
+team Nombre Apellido mexico
 
 printf  "       TOTAL           ,"
 printf "%4s %s" "$TOTAL_SERVER" ","
